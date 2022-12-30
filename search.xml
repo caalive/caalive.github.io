@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>hexo文档基本使用</title>
+      <link href="/2022/12/30/hexo-wen-dang-ji-ben-shi-yong/"/>
+      <url>/2022/12/30/hexo-wen-dang-ji-ben-shi-yong/</url>
+      
+        <content type="html"><![CDATA[<h1 id="hexo文档格式基本使用"><a href="#hexo文档格式基本使用" class="headerlink" title="hexo文档格式基本使用"></a>hexo文档格式基本使用</h1><p>网上搜索了大堆资料今天将hexo部署至 <em>githubpages</em> 上成功运行。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/12/29/hello-world/"/>
       <url>/2022/12/29/hello-world/</url>

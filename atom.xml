@@ -6,7 +6,7 @@
   <link href="https://caalive.github.io/atom.xml" rel="self"/>
   
   <link href="https://caalive.github.io/"/>
-  <updated>2022-12-29T07:29:50.958Z</updated>
+  <updated>2022-12-30T03:21:54.780Z</updated>
   <id>https://caalive.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo文档基本使用</title>
+    <link href="https://caalive.github.io/2022/12/30/hexo-wen-dang-ji-ben-shi-yong/"/>
+    <id>https://caalive.github.io/2022/12/30/hexo-wen-dang-ji-ben-shi-yong/</id>
+    <published>2022-12-30T03:06:21.000Z</published>
+    <updated>2022-12-30T03:21:54.780Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;hexo文档格式基本使用&quot;&gt;&lt;a href=&quot;#hexo文档格式基本使用&quot; class=&quot;headerlink&quot; title=&quot;hexo文档格式基本使用&quot;&gt;&lt;/a&gt;hexo文档格式基本使用&lt;/h1&gt;&lt;p&gt;网上搜索了大堆资料今天将hexo部署至</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="https://caalive.github.io/categories/Markdown/"/>
+    
+    
+    <category term="hexo" scheme="https://caalive.github.io/tags/hexo/"/>
+    
+    <category term="Markdown" scheme="https://caalive.github.io/tags/Markdown/"/>
+    
+    <category term="测试" scheme="https://caalive.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
